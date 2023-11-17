@@ -1,0 +1,16 @@
+D:\GGLab\Lab 0\Lab 0\bin\Debug\net8.0-windows\Lab 0.exe
+D:\GGLab\Lab 0\Lab 0\bin\Debug\net8.0-windows\Lab 0.deps.json
+D:\GGLab\Lab 0\Lab 0\bin\Debug\net8.0-windows\Lab 0.runtimeconfig.json
+D:\GGLab\Lab 0\Lab 0\bin\Debug\net8.0-windows\Lab 0.dll
+D:\GGLab\Lab 0\Lab 0\bin\Debug\net8.0-windows\Lab 0.pdb
+D:\GGLab\Lab 0\Lab 0\obj\Debug\net8.0-windows\Lab_0.Form1.resources
+D:\GGLab\Lab 0\Lab 0\obj\Debug\net8.0-windows\Lab 0.csproj.GenerateResource.cache
+D:\GGLab\Lab 0\Lab 0\obj\Debug\net8.0-windows\Lab 0.GeneratedMSBuildEditorConfig.editorconfig
+D:\GGLab\Lab 0\Lab 0\obj\Debug\net8.0-windows\Lab 0.AssemblyInfoInputs.cache
+D:\GGLab\Lab 0\Lab 0\obj\Debug\net8.0-windows\Lab 0.AssemblyInfo.cs
+D:\GGLab\Lab 0\Lab 0\obj\Debug\net8.0-windows\Lab 0.csproj.CoreCompileInputs.cache
+D:\GGLab\Lab 0\Lab 0\obj\Debug\net8.0-windows\Lab 0.dll
+D:\GGLab\Lab 0\Lab 0\obj\Debug\net8.0-windows\refint\Lab 0.dll
+D:\GGLab\Lab 0\Lab 0\obj\Debug\net8.0-windows\Lab 0.pdb
+D:\GGLab\Lab 0\Lab 0\obj\Debug\net8.0-windows\Lab 0.genruntimeconfig.cache
+D:\GGLab\Lab 0\Lab 0\obj\Debug\net8.0-windows\ref\Lab 0.dll
